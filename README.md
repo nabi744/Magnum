@@ -1,0 +1,7 @@
+- Machine Learning
+  - Classification
+  - Regression
+  - Clustering
+  - Dimension reduction
+  - Model selection
+  - Preprocessing
