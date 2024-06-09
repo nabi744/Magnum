@@ -22,12 +22,12 @@ The function can be linear or non-linear.
 
 # Supervised Learning
 ## Classification
-- [k-Nearest Neighbors](KNN.py)
+- [k-Nearest Neighbors](KNearestNeighbors.ipynb)
 ## Regression
 - [Linear Regression](LinearRegression.ipynb)
 
 # Unsupervised Learning
 ## Clustering
-- [k-Means](KMeans.py)
+- [k-Means](KMeans.ipynb)
 
 # Reinforcement Learning
