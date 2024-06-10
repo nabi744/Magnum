@@ -22,12 +22,25 @@ The function can be linear or non-linear.
 
 # Supervised Learning
 ## Classification
-- [k-Nearest Neighbors](KNearestNeighbors.ipynb)
+- Linear Models
+  - [Logistic Regression](LogisticRegression.ipynb)
+  - [Support Vector Machines](SupportVectorMachines.ipynb)
+- Non-linear Models
+  - [k-Nearest Neighbors](KNearestNeighbors.ipynb)
+  - [Weighted k-Nearest Neighbors](WeightedKNearestNeighbors.ipynb)
+  - [Kernal SVM](KernalSVM.ipynb)
+  - [Naive Bayes](NaiveBayes.ipynb)
+  - [Decision Tree](DecisionTree.ipynb)
+  - [Random Forest](RandomForest.ipynb)
 ## Regression
 - [Linear Regression](LinearRegression.ipynb)
 
 # Unsupervised Learning
 ## Clustering
-- [k-Means](KMeans.ipynb)
+- Non-Hierarchical Clustering
+  - Center-Based: [k-Means](KMeans.ipynb)
+  - Density-Based: [DBSCAN](DBSCAN.ipynb)
+- Hierarchical Clustering
+  - [Agglomerative Clustering](AgglomerativeClustering.ipynb)
 
 # Reinforcement Learning
