@@ -28,6 +28,7 @@ The function can be linear or non-linear.
 - Non-linear Models
   - [k-Nearest Neighbors](KNearestNeighbors.ipynb)
   - [Weighted k-Nearest Neighbors](WeightedKNearestNeighbors.ipynb)
+  - [fixed radius neighbors](FixedRadiusNeighbors.ipynb)
   - [Kernal SVM](KernalSVM.ipynb)
   - [Naive Bayes](NaiveBayes.ipynb)
   - [Decision Tree](DecisionTree.ipynb)
