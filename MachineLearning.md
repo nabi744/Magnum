@@ -18,7 +18,23 @@ It is like making a new function that gets input and gives wanted output.
 Machine Learning is about finding a function that maps input to output.
 The function can be linear or non-linear.
 
+```mermaid
+graph TD
+    A[Input] --> B[Model]
+    B --> C[Output]
+```
+
 ## Features
+
+```mermaid
+graph TD
+    A[Machine Learning] --> B[Supervised Learning]
+    B --> C[Classification]
+    B --> D[Regression]
+    A --> E[Unsupervised Learning]
+    E --> F[Clustering]
+    A --> G[Reinforcement Learning]
+```
 
 # Supervised Learning
 ## Classification
@@ -26,9 +42,10 @@ The function can be linear or non-linear.
   - [Logistic Regression](LogisticRegression.ipynb)
   - [Support Vector Machines](SupportVectorMachines.ipynb)
 - Non-linear Models
-  - [k-Nearest Neighbors](KNearestNeighbors.ipynb)
-  - [Weighted k-Nearest Neighbors](WeightedKNearestNeighbors.ipynb)
-  - [fixed radius neighbors](FixedRadiusNeighbors.ipynb)
+  - Nearest Neighbors
+    - [k-Nearest Neighbors](KNearestNeighbors.ipynb)
+    - [Weighted k-Nearest Neighbors](WeightedKNearestNeighbors.ipynb)
+    - [fixed radius neighbors](FixedRadiusNeighbors.ipynb)
   - [Kernal SVM](KernalSVM.ipynb)
   - [Naive Bayes](NaiveBayes.ipynb)
   - [Decision Tree](DecisionTree.ipynb)
