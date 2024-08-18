@@ -5,3 +5,12 @@
   - Dimension reduction
   - Model selection
   - Preprocessing
+
+- Models
+  - Regression: Linear Regression, Logistic Regression
+  - Bayesian: Naïve Bayes, Gaussian Naïve Bayes
+  - Decision Tree: Classification and Regression Tree
+  - Instance-based: K-Nearest Neighbor(KNN)
+  - Deep Learning: CNN, RNN, GAN
+  - Clustering: K-Means, K-Median
+  - Ensemble: Random Forest, Boosting, Bagging
